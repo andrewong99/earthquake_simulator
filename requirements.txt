@@ -1,0 +1,5 @@
+# Earthquake Simulator dependencies
+panda3d>=1.10.13          # 3D engine, with Bullet physics built in
+panda3d-simplepbr>=0.12   # physically-based shading (optional but recommended)
+numpy>=1.24
+scipy>=1.10
